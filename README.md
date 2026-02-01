@@ -4,9 +4,9 @@ A structured repository to practice **Data Structures and Algorithms (DSA)**, fo
 
 ---
 
-## 📌 What This Repository Contains
+## 📌 What This Repository Contains ---
 - 📂 Implementation of core **Data Structures**
-- ⚙️ Common and advanced **Algorithms**   From hard level to tough level
+- ⚙️ Common and advanced **Algorithms** ----
 - 🧩 Handpicked **coding problems** with solutions
 - 🧠 Optimized approaches with time & space complexity
 - 🎯 Interview-oriented practice questions
