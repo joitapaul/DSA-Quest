@@ -1,3 +1,5 @@
+//This is the program of the character pattern----
+
 #include <iostream>
 using namespace std;
 int main(){
