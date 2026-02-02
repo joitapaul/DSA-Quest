@@ -1,4 +1,6 @@
-#include <iostream>
+//This is the program for the change of the elements of the array:-------------------------------
+
+include <iostream>
 using namespace std;
 
 void changeArr(int arr[], int size){
