@@ -1,3 +1,5 @@
+//This is the program for using the functions-------
+
 #include <iostream>
 using namespace std;
 int orintgreet(){
