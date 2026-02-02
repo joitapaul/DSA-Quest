@@ -1,3 +1,4 @@
+//This is the program to find the array elements:
 #include <iostream>
 using namespace std;
 int main(){
