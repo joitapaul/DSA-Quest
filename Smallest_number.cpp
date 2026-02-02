@@ -1,3 +1,5 @@
+// This is the program to finnd the smallest number among the given numbers
+
 #include <iostream>
 using namespace std;
 int main (){
