@@ -1,3 +1,5 @@
+//This is the program to print the pattern: ---------------------------
+
 #include <iostream>
 using namespace std;
 int main(){
