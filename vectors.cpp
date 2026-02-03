@@ -1,3 +1,5 @@
+//This is the code for printing the characters of vector
+
 #include <iostream>
 #include <vector>
 using namespace std;
