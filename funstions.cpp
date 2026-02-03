@@ -2,9 +2,9 @@
 
 #include <iostream>
 using namespace std;
-int orintgreet(){
+int printgreet(){
     cout << "joita";
-    return 
+    return 1;
 }
 int main(){
     orintgreet();
