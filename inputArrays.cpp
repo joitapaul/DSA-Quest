@@ -1,3 +1,5 @@
+//This is the program for taking input in arrays: -----------------------
+
 #include <iostream>
 using namespace std;
 int main(){
