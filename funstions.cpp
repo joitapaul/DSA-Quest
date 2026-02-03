@@ -4,7 +4,7 @@
 using namespace std;
 int orintgreet(){
     cout << "joita";
-    return 6;
+    return 
 }
 int main(){
     orintgreet();
