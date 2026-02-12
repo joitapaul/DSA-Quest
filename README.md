@@ -8,7 +8,7 @@ A structured repository to practice **Data Structures and Algorithms (DSA)**, fo
 - 📂 Implementation of core **Data Structures**
 - ⚙️ Common and advanced **Algorithms** 
 - 🧩 Handpicked **coding problems** with solutions
-- 🧠 Optimized approaches with time & space complexity of the Dsa
+- 🧠 Optimized approaches with time & space complexity 
 - 🎯 Interview-oriented practice questions 
 
 ---
