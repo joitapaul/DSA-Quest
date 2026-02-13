@@ -8,6 +8,7 @@ int printgreet(){
 }
 int main(){
     orintgreet();
+    return 0;
     
     
 }
