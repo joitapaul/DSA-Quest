@@ -8,7 +8,7 @@ void changeArr(int arr[], int size){
         arr[i] = 2*arr[i];
     }
 }
-int main(){
+{
     int arr[] ={ 2, 5, 7, 9};
     changeArr(arr,4 );
 
