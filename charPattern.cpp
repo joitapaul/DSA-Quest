@@ -13,6 +13,6 @@ int main(){
             ch = ch +1;
 
         }
-        cout << endl;
+        ;
     }
 }
