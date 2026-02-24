@@ -1,5 +1,5 @@
 // This is the program to finnd the smallest number among the given numbers
-
+#include <iostream>
 using namespace std;
 int main (){
     int num[] = {84,27,56,78,23};
