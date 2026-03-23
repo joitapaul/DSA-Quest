@@ -1,4 +1,4 @@
-
+# DSA-Quest 🚀
 
 A structured repository to practice **Data Structures and Algorithms (DSA)**, focused on building strong problem-solving skills for **coding interviews, competitive programming, and core CS fundamentals**.
 
