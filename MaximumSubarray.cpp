@@ -1,39 +1,39 @@
-// #include <iostream>
-// #include <vector>
-// using namespace std;
-// int main(){
-// int n =5;
-// int arr[5] = {2, 5, 9, 2, 7};
-//    for(int st=0; st<n; st++ ){
-//       for(int end =st; end <n; end++){
-//          for(int i =st; i <=end;i++ ){
-//             cout << arr[i] << " ";
-//          }
-//          cout << " " ;
-//       }
-//       cout << endl;
-//    }
-//    // cout << " ";
-//    return 0;
-// }
-// #include <iostream>
-// using namespace std;
+#include <iostream>
+#include <vector>
+using namespace std;
+int main(){
+int n =5;
+int arr[5] = {2, 5, 9, 2, 7};
+   for(int st=0; st<n; st++ ){
+      for(int end =st; end <n; end++){
+         for(int i =st; i <=end;i++ ){
+            cout << arr[i] << " ";
+         }
+         cout << " " ;
+      }
+      cout << endl;
+   }
+   // cout << " ";
+   return 0;
+}
+#include <iostream>
+using namespace std;
 
-// int main() {
-//     int n = 5;
-//     int arr[5] = {2,5,9,2,7};
+int main() {
+    int n = 5;
+    int arr[5] = {2,5,9,2,7};
 
-//     for(int st = 0; st < n; st++) {
-//         for(int end = st; end < n; end++) {
-//             for(int i = st; i <= end; i++) {
-//                 cout << arr[i] << " ";
-//             }
-//             cout << endl;
-//         }
-//     }
+    for(int st = 0; st < n; st++) {
+        for(int end = st; end < n; end++) {
+            for(int i = st; i <= end; i++) {
+                cout << arr[i] << " ";
+            }
+            cout << endl;
+        }
+    }
 
-//     return 0;
-// }
+    return 0;
+}
 #include <iostream>
 #include <vector>
 using namespace std;
