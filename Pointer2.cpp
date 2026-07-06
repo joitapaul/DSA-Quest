@@ -1,3 +1,5 @@
+# This is the code for the pointers
+
 #include <iostream>
 using namespace std;
 int main(){
